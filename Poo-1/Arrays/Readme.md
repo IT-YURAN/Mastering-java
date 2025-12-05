@@ -7,11 +7,11 @@ Arrays is an important linear data structure that allows us to store multiple va
 - Arrays have a built-in length property, which provides the number of elements in the array.
 
 ## Key features of Arrays
-**Store Primitives and Objects:**Java arrays can hold both primitive types (like int, char, boolean, etc.) and objects
+**Store Primitives and Objects:** Java arrays can hold both primitive types (like int, char, boolean, etc.) and objects
 (like String, Integer, etc.)
-**contiguous Memory Allocation:**When we use arrays of primitive types, the elements are stored in contiguous 
+**contiguous Memory Allocation:** When we use arrays of primitive types, the elements are stored in contiguous 
 locations. For non-primitive types, references of items are stored at contiguous locations.
-**Zero-based Indexing:**The first element of the array is at index 0.
+**Zero-based Indexing:** The first element of the array is at index 0.
 **Fixed Length:** After creating an array, its size is fixed; we can not change it.
 
 
