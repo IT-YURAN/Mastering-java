@@ -11,7 +11,7 @@ In Java, an object is created from a class. By creating an object of a class we 
 
 **var person**=new Person("Judas",24,"Av.Eduardo");  
 
-#### The creation  of a class hast the following steps:
+#### The creation  of an object has the following steps:
 
 1. Declaration: The code set in bold are all variable declarations that associate a variable name with an object type.
 2. Instantiation: The new keyword is a Java operator that creates the object.
